@@ -1,4 +1,5 @@
-#BAZA DANYCH
+
+# BAZA DANYCH
 Baza danych przedstawiająca schemat szkoły, podobny do dziennika elektronicznego.
 Zawiera informacje o
 pracownikach tj. nauczycielach (tabela pracownicy),
@@ -40,7 +41,7 @@ Typy nieobecnosci tłumaczą się jako: N-nieusprawiedliwiony, U-usprawiedzliwio
 
 --------------------------------------------------------------------------------------------
 
-#APLIKACJA:
+# APLIKACJA:
 create.sql należy uruchomić w schemacie o nazwie "public". Adres bazy danych podaje się przy logowaniu.
 java -cp app.jar Main
 
